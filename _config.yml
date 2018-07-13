@@ -1,4 +1,12 @@
 # Site settings
 title: CR Blog
 SEOTitle: 曹锐的博客 | CR Blog
+header-img: img/post-bg-desk.jpg
+email: lixing.jian@outlook.com
+description: "All that glitters is not gold.."
+keyword: "BY, BY Blog, 李湖隐的博客, lihuyin,Constantine Bellefield
+url: "http://ConstantineBellefield.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/ConstantineBellefield/ConstantineBellefield.github.io.git" # you code repository
+
 
