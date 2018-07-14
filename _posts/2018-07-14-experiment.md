@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "Hey, this is CR."
-header-img: "img/post-bg-rwd.jpg"
+title: "xx"
+description: "xx."
 ---
 
 <!-- Language Selector -->
