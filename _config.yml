@@ -1,10 +1,10 @@
 # Site settings
 title: Indepedant thought
-SEOTitle: 李湖隐的博客 | HY Blog
+SEOTitle: 寒稷的博客 | HJ Blog
 header-img: img/post-bg-desk.jpg
 email: lixing.jian@outlook.com
 description: "All that glitters is not gold."
-keyword: "BY, BY Blog, 李湖隐的博客, lihuyin,Constantine Bellefield"
+keyword: "HJ, HJ Blog, 寒稷的博客, hanji,Constantine Bellefield"
 url: "http://ConstantineBellefield.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ConstantineBellefield/ConstantineBellefield.github.io.git" # you code repository
@@ -99,14 +99,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        #title: "WY",
+        #href: "http://zhengwuyang.com"
     },{
-        title: "简书•BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        #title: "简书•BY",
+        #href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        #title: "Apple",
+        #href: "https://apple.com"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
